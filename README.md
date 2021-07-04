@@ -1,6 +1,7 @@
 # Kickstarting with Excel
 ## Overview of project 
 ### Purpose
+The purpose of this analysis is to look at how theatre campaigns specifically "plays" performed in relation to their launch dates and their funding goals. We are also looking at the best time of the year to hold the campaign as well as to understand how much funding we need for our campaign to be successful.
 ## Analysis and Challenges
 ### Analysis of Outcomes based on Launch date
 I performed an analysis of Theater outcomes of campaigns based on their launch date. As you can see on the chart, the most successful month that launched the most successful Kickstarter campaigns was May. After the May high of 111, there is a slow decline in successful campaigns through the summer months. Launches in the fall, the winter, and the springs months were mostly around 60 campaigns.  December had the worst month with the lowest number of successful campaigns of 37, almost equal to 35 failed launches. Overall the number of successful campaigns is higher than failed and canceled campaigns throughout the year. According, January had the highest number of canceled campaigns at 7, while the rest of the year monthly canceled campaigns were in low digits. 
